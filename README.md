@@ -1,2 +1,3 @@
 # javascript-practice
-Basic JavaScript calculator
+Basic JavaScript Rock Paper Scissors
+
